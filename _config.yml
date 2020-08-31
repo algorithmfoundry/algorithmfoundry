@@ -6,4 +6,7 @@ project_title: Cognitive Foundry
 twitter_username: AlgoFoundry
 github_username: algorithmfoundry
 
-repository_url: https://github.com/algorithmfoundry/Foundry
+site.github.repository_url: https://github.com/algorithmfoundry/Foundry
+
+site.github.is_user_page: true
+site.github.is_project_page: false

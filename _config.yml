@@ -10,3 +10,6 @@ site.github.repository_url: https://github.com/algorithmfoundry/Foundry
 
 site.github.is_user_page: true
 site.github.is_project_page: false
+
+github:
+  repository_url: https://github.com/algorithmfoundry/Foundry
